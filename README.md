@@ -2,6 +2,12 @@
 
 A beautiful React Native app for managing restaurant menu items with a modern Discord-style UI.
 
+## Student Information
+
+- **Name**: Rolly Ngoma
+- **Student Number**: ST10495178
+- **Course**: [Course name to be specified]
+
 ## 🎥 Demo Video
 
 Check out the app in action:
