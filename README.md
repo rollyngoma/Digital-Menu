@@ -11,7 +11,7 @@ A beautiful React Native app for managing restaurant menu items with a modern Di
 - **Student Name**: Rolly Ngoma
 - **Student Number**: ST10495178
 
-## 🎥 Demo Video
+## Demo Video
 
 Check out the app in action:
 
