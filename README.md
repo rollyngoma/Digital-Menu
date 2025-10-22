@@ -27,7 +27,7 @@ A beautiful React Native app for managing restaurant menu items with a modern Di
 - **React Native** with TypeScript
 - **Expo** for development and deployment
 - **React Navigation** for screen navigation
-- **React Native Picker Select** for dropdowns
+- **Custom Modal Picker** for course selection
 - **Expo Vector Icons** for icons
 
 ## Design
@@ -83,7 +83,7 @@ DigitalMenu/
 - Navigation between screens
 - Menu item management with state
 - Form validation
-- Course filtering
+- Course filtering with custom modal picker
 - Clean, modern UI design
 - Responsive layout
 - Accessibility features
