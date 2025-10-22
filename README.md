@@ -2,6 +2,14 @@
 
 A beautiful React Native app for managing restaurant menu items with a modern Discord-style UI.
 
+## 🎥 Demo Video
+
+Check out the app in action:
+
+[![Digital Menu Demo](https://img.youtube.com/vi/UNccaupfVeM/maxresdefault.jpg)](https://youtube.com/shorts/UNccaupfVeM?si=XwZ_BCDxmcPbDA3I)
+
+**Watch the demo**: [https://youtube.com/shorts/UNccaupfVeM?si=XwZ_BCDxmcPbDA3I](https://youtube.com/shorts/UNccaupfVeM?si=XwZ_BCDxmcPbDA3I)
+
 ## Features
 
 **Home Screen**
