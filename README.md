@@ -2,11 +2,14 @@
 
 A beautiful React Native app for managing restaurant menu items with a modern Discord-style UI.
 
-## Student Information
+## Module Details
 
-- **Name**: Rolly Ngoma
+- **Module Name**: Mobile App Scripting
+- **Module Code**: MAST5112/d/p/w
+- **Assessment Type**: Portfolio of Evidence (Part 2 – Adding the Logic)
+- **App Name**: Digital Menu
+- **Student Name**: Rolly Ngoma
 - **Student Number**: ST10495178
-- **Course**: [Course name to be specified]
 
 ## 🎥 Demo Video
 
